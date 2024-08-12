@@ -15,9 +15,9 @@ I'm eager to apply my analytical skills and data expertise in a dynamic and inno
 
 Here are a few projects I've worked on:
 
-- **[Data Visualization](https://github.com/divanirafitya/project-name)**: Developing a visualization project to assess current performance and identify areas for improvement.
-- **[Machine Learning](https://github.com/divanirafitya/another-project-name)**: Developing a machine learning project to identify and predict outcomes based on individual cases.
-- **[Deep Learning](https://github.com/divanirafitya/yet-another-project-name)**: Developing a deep learning-based project to process and analyze large-scale, complex data sets.
+- **[Data Visualization](https://github.com/divanirafitya/data-visualization)**: Developing a visualization project to assess current performance and identify areas for improvement.
+- **[Machine Learning](https://github.com/divanirafitya/machine-learning)**: Developing a machine learning project to identify and predict outcomes based on individual cases.
+- **[Deep Learning](https://github.com/divanirafitya/deep-learning)**: Developing a deep learning-based project to process and analyze large-scale, complex data sets.
 
 ## 📫 Contact
 
